@@ -12,6 +12,7 @@ public class Exam {
 		exams.add(MakeFishExam.justDoIt());
 		exams.add(MakeCameronExam.justDoIt());
 		exams.add(MakeCheExam.justDoIt());
+		exams.add(MakeMcheryExam.justDoIt());
 		/* Add more exams here using the two lines above as a template. */
 
 		while (true) {

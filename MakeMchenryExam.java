@@ -7,7 +7,7 @@ public class MakeMchenryExam {
 	 
     public static Exam justDoIt() {
         Vector<Question> questions = new Vector<Question>();
-        Exam exam = new Exam("Che Quiz", questions);
+        Exam exam = new Exam("Mchenry Quiz", questions);
         
         {
             Question question = new Question();
